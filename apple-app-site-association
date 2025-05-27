@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6746193082.com.xyp.boringtap",
+        "paths": [ "/invite/*" ]
+      }
+    ]
+  }
+}
